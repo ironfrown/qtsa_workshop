@@ -1,4 +1,4 @@
-# Workshop on Quatum Time Series Analysis
+# Workshop on Quantum Time Series Analysis
 **Author:** Jacob Cybulski (ironfrown)<br/>
 **Location:** Melbourne, Australia<br/>
 **Date:** October 2022
