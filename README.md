@@ -1,5 +1,5 @@
 # Workshop on Quantum Time Series Analysis
-**Author:** Jacob Cybulski (ironfrown)<br/>
+**Author:** [Jacob Cybulski](http://jacobcybulski.com/) ([ironfrown](https://github.com/ironfrown))<br/>
 **Location:** Melbourne, Australia<br/>
 **Date:** October 2022
 
