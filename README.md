@@ -45,3 +45,22 @@ Instructions on using this repository on IBM Quantum (IBMQ):
 - Type a statement "!unzip qtsa_workshop-main.zip" (Shit-Enter)
 - Refresh the contents of the directory (Top left menu > Refresh file list)
 - The contents of the workshop repository is ready for use within IBMQ Lab
+
+Workshop examples have been tested on the following system:
+
+| Qiskit Software	| Version |
+| --- | :---: |
+| qiskit-terra	| 0.21.0 |
+| qiskit-aer	| 0.10.4 |
+| qiskit-ibmq-provider	| 0.19.2 |
+| qiskit	| 0.37.0 |
+| qiskit-nature	| 0.4.2 |
+| qiskit-finance	| 0.3.3 |
+| qiskit-optimization	| 0.4.0 |
+| qiskit-machine-learning	| 0.4.0 |
+| | |
+| <b>System information</b> | | 
+| Python version	| 3.8.13 |
+| Python compiler	| GCC 7.5.0 |
+| OS	| Linux |
+| Memory (Gb)	| 62.492130279541016 |
