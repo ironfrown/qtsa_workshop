@@ -5,7 +5,7 @@
 
 Jacob Cybulski is an independent researcher in quantum computing, quantum machine learning, classical machine learning and data visualisation. He also holds the position of Honorary Associate Professor in Quantum Computing, in the School of IT at Deakin University, Melbourne, Australia.
 
-**This repository consists of examples used in Jacob's workshop on Quantum Time Series Analysis (QTSA).**
+**This repository consists of examples used in the workshop on Quantum Time Series Analysis (QTSA).**
 
 The workshop provides some introductory material and is delivered via online meetings (e.g. Zoom, Teams or Webex). The workshop is practical and sets the following aim:
 
