@@ -6,8 +6,14 @@
 Jacob Cybulski is an independent researcher in quantum computing, quantum machine learning, classical machine learning and data visualisation. He also holds the position of Honorary Associate Professor in Quantum Computing, in the School of IT at Deakin University, Melbourne, Australia.
 
 This repository consists of examples used in the workshop on Quantum Time Series Analysis (QTSA).
+- [Workshop aims and objectives](#aims-and-objectives)
+- [Prerequsite knowledge](#prerequsite-knowledge)
+- [Materials and notebooks](#materials-and-notebooks)
+- [Workshop tasks](#workshop-tasks)
+- [Installation instructions for IBMQ Labs](#installation-instructions-for-ibmq-labs)
+- [Software compatibility](#software-compatibility)
 
-## Workshop aims and objectives
+## Aims and objectives
 The workshop provides some introductory material and is delivered via online meetings (e.g. Zoom, Teams or Webex). The workshop is practical and sets the following aim:
 
 > To provide the participants with knowledge and skills needed 
@@ -18,7 +24,7 @@ It specifically qualifies its objectives as:
 > We will not seek to explore quantum advantage of QTSA solutions over classical ones but rather 
 > aim to gain experience in quantum manipulation and modelling of time series data.
 
-## Workshop prerequsites
+## Prerequsite knowledge
 The workshop makes some assumptions as to the audience knowledge and skills, i.e.
 
 - Knowledge of Python
@@ -27,7 +33,7 @@ The workshop makes some assumptions as to the audience knowledge and skills, i.e
 - Understanding of Variational Quantum Circuits
 - Awareness of Quantum Neural Network techniques
 
-## Workshop Jupyter notebooks
+## Materials and notebooks
 The following files are publicly available:
 
 - [utils.py](./utils.py) - Utility classes and functions
@@ -59,7 +65,7 @@ Typically the following tasks are undertaken by the workshop participants:
     - Test it with various data sets, factors and optimisers.
     - Analyse, compare and find the best combination.
 
-## Installation instructions
+## Installation instructions for IBMQ Labs
 Instructions on using this repository on IBM Quantum (IBMQ):
 
 - Create an IBMQ account and login<br/>
@@ -77,7 +83,7 @@ Instructions on using this repository on IBM Quantum (IBMQ):
 - Refresh the contents of the directory (Labs top left icons > Refresh file list)
 - The contents of the workshop repository is ready for use within IBMQ Lab
 
-## Tested environment
+## Software compatibility
 Workshop examples have been tested on the following system:
 
 | Qiskit Software	| Version |
