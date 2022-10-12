@@ -13,7 +13,7 @@ This repository consists of examples used in the workshop on Quantum Time Series
 - Understanding of Variational Quantum Circuits
 - Awareness of Quantum Neural Network techniques
 
-The following are made available:
+The following files are publicly available:
 
 - [utils.py](./utils.py) - Utility classes and functions
 - [qtsa_00_utils_v1.0_demo.ipynb](./qtsa_00_utils_v1.0_demo.ipynb) - Tests of support functions
