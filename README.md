@@ -25,8 +25,8 @@ The following are made available:
 
 The following files are not available, but given to workshop participants (after the workshop):
 
-- [qtsa_03_parallel_model_answer_v8.9.ipynb](./qtsa_03_parallel_model_answer_v8.9.ipynb) - Sample solution for QTSA with parallel Fourier transforms
-- [qtsa_05_sliding_wind_answer_v9.0.ipynb](./qtsa_05_sliding_wind_answer_v9.0.ipynb) - Sample solution for QTSA with serial custom QNN
+- [qtsa_03_parallel_model_answer_v8.9.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with parallel Fourier transforms
+- [qtsa_05_sliding_wind_answer_v9.0.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with serial custom QNN
 
 Instructions on using this repository on IBM Quantum (IBMQ):
 
