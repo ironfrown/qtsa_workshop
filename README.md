@@ -5,8 +5,9 @@
 
 Jacob Cybulski is an independent researcher in quantum computing, quantum machine learning, classical machine learning and data visualisation. He also holds the position of Honorary Associate Professor in Quantum Computing, in the School of IT at Deakin University, Melbourne, Australia.
 
-**This repository consists of examples used in the workshop on Quantum Time Series Analysis (QTSA).**
+This repository consists of examples used in the workshop on Quantum Time Series Analysis (QTSA).
 
+## Workshop aims and objectives
 The workshop provides some introductory material and is delivered via online meetings (e.g. Zoom, Teams or Webex). The workshop is practical and sets the following aim:
 
 > To provide the participants with knowledge and skills needed 
@@ -17,6 +18,7 @@ It specifically qualifies its objectives as:
 > We will not seek to explore quantum advantage of QTSA solutions over classical ones but rather 
 > aim to gain experience in quantum manipulation and modelling of time series data.
 
+## Workshop prerequsites
 The workshop makes some assumptions as to the audience knowledge and skills, i.e.
 
 - Knowledge of Python
@@ -25,6 +27,7 @@ The workshop makes some assumptions as to the audience knowledge and skills, i.e
 - Understanding of Variational Quantum Circuits
 - Awareness of Quantum Neural Network techniques
 
+## Workshop Jupyter notebooks
 The following files are publicly available:
 
 - [utils.py](./utils.py) - Utility classes and functions
@@ -40,6 +43,7 @@ The following files are not available, but given to the workshop participants (a
 - [qtsa_03_parallel_model_answer_v8.9.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with parallel Fourier transforms
 - [qtsa_05_sliding_wind_answer_v9.0.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with serial custom QNN
 
+## Workshop tasks
 Typically the following tasks are undertaken by the workshop participants:
 
 - **Easy:** Study serial quantum Fourier transform TS fit.
@@ -55,6 +59,7 @@ Typically the following tasks are undertaken by the workshop participants:
     - Test it with various data sets, factors and optimisers.
     - Analyse, compare and find the best combination.
 
+## Installation instructions
 Instructions on using this repository on IBM Quantum (IBMQ):
 
 - Create an IBMQ account and login<br/>
@@ -63,16 +68,16 @@ Instructions on using this repository on IBM Quantum (IBMQ):
    *URL: https://github.com/ironfrown/qtsa_workshop*
 - Download workshop files from GitHub:<br/>
    *Either via *git* or from *GitHub* web site (Code > Download ZIP)*<br/>
-   *Save it as "qtsa_workshop-main.zip'* 
-- On IBMQ select Lab option
-- Create a directory "qtsa_workshop" on IBMQ labs (Top left menu > New folder)<br/>
-   *Enter the newly created directory*
-- Upload "qtsa_workshop-main.zip" file into this directory (Top left menu > Upload files)
-- Open a Python Console (Top left menu > New file + > Console)
+   *Save it as "qtsa_workshop-main.zip" (includes the enclosing folder)* 
+- On IBMQ select the Lab option (Top left menu > Lab)
+- In the IBMQ Labs file system identify the directory for the contents of the archive
+- Upload "qtsa_workshop-main.zip" file into this directory (Labs top left icons > Upload files)
+- Open a Python Console (Labs top left icons > New file + > Console)
 - Type a statement "!unzip qtsa_workshop-main.zip" (Shit-Enter)
-- Refresh the contents of the directory (Top left menu > Refresh file list)
+- Refresh the contents of the directory (Labs top left icons > Refresh file list)
 - The contents of the workshop repository is ready for use within IBMQ Lab
 
+## Tested environment
 Workshop examples have been tested on the following system:
 
 | Qiskit Software	| Version |
