@@ -42,7 +42,7 @@ The following files are not available, but given to the workshop participants (a
 
 Typically the following tasks are undertaken by the workshop participants:
 
-- **Easy:** Study serial qubit Fourier transform TS fit.
+- **Easy:** Study serial quantum Fourier transform TS fit.
     - Test it with various data sets, factors and optimisers.
     - Analyse, compare and find the best combination.
 - **Medium:** Implement a parallel Fourier transform TS fit.
