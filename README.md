@@ -45,7 +45,7 @@ Typically the following tasks are undertaken by the workshop participants:
 - **Easy:** Study serial quantum Fourier transform TS fit.
     - Test it with various data sets, factors and optimisers.
     - Analyse, compare and find the best combination.
-- **Medium:** Implement a parallel Fourier transform TS fit.
+- **Medium:** Implement a parallel quantum Fourier transform TS fit.
     - Test it with various data sets, factors and optimisers.
     - Analyse, compare and find the best combination.
 - **Hard:** Implement a serial sliding window QNN TS forecaster.
