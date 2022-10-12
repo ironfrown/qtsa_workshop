@@ -63,4 +63,4 @@ Workshop examples have been tested on the following system:
 | Python version	| 3.8.13 |
 | Python compiler	| GCC 7.5.0 |
 | OS	| Linux |
-| Memory (Gb)	| 62.492130279541016 |
+| Memory (Gb)	| 62 |
