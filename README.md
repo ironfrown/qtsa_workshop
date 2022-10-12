@@ -23,10 +23,25 @@ The following are made available:
 - [qtsa_04_qnn_v1.2_demo.ipynb](./qtsa_04_qnn_v1.2_demo.ipynb) - Demo of QTSA with sliding window and a standard QNN
 - [qtsa_05_sliding_wind_problem_v9.0.ipynb](./qtsa_05_sliding_wind_problem_v9.0.ipynb) - Problem notebook for QTSA with serial custom QNN
 
-The following files are not available, but given to workshop participants (after the workshop):
+The following files are not available, but given to the workshop participants (after the workshop):
 
 - [qtsa_03_parallel_model_answer_v8.9.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with parallel Fourier transforms
 - [qtsa_05_sliding_wind_answer_v9.0.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with serial custom QNN
+
+Typically the following tasks are undertaken by the workshop participants:
+
+- **Easy:** Study serial qubit Fourier transform TS fit.
+    - Test it with various data sets, factors and optimisers.
+    - Analyse, compare and find the best combination.
+- **Medium:** Implement a parallel Fourier transform TS fit.
+    - Test it with various data sets, factors and optimisers.
+    - Analyse, compare and find the best combination.
+- **Hard:** Implement a serial sliding window QNN TS forecaster.
+    - Test it with various data sets, factors and optimisers.
+    - Analyse, compare and find the best combination.
+- **Challenge:** Modify the SSW QNN for multi-variate TS data.
+    - Test it with various data sets, factors and optimisers.
+    - Analyse, compare and find the best combination.
 
 Instructions on using this repository on IBM Quantum (IBMQ):
 
