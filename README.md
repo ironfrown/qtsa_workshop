@@ -9,9 +9,8 @@ Jacob Cybulski is an independent researcher in quantum computing, quantum machin
 - Jacob Cybulski. “Workshop on Quantum Time Series Analysis.” *Ironfrown GitHub repository*, Melbourne, Australia, 2022.<br/> https://github.com/ironfrown/qtsa_workshop.
 
 The workshop material was presented in the following events:
-- Jacob Cybulski, "Key Concepts in Quantum Time Series Analysis", *School of IT, SEBE, Deakin University*, Burwood, Australia, 29 Sept 2022. Access presentation <a href="http://jacobcybulski.com/seminars/slides/2022_TQCEBT_QTSA_v2.2.pdf" target="_blank">PDF</a>.
-- Jacob Cybulski, keynote "Time Series Analysis Using Quantum Machine Learning", *Workshop on Quantum Machine Learning*, organised in collaboration with QWorld, QPoland, QIndia and Quantum AI Foundation. In association with IEEE Conference Trends in Quantum Computing and Emerging Business Technologies - TQCEBT 2022, 13 October 2022. Access presentation <a href="http://jacobcybulski.com/seminars/slides/2022_Deakin_SIT_QTSA_V2_0.pdf" target="_blank">PDF</a>.
-
+- Jacob Cybulski, keynote "Time Series Analysis Using Quantum Machine Learning", *Workshop on Quantum Machine Learning*, organised in collaboration with QWorld, QPoland, QIndia and Quantum AI Foundation. In association with IEEE Conference Trends in Quantum Computing and Emerging Business Technologies - TQCEBT 2022, 13 October 2022. Access presentation <a href="http://jacobcybulski.com/seminars/slides/2022_TQCEBT_QTSA_v2.2.pdf" target="_blank">PDF</a>.
+- Jacob Cybulski, "Key Concepts in Quantum Time Series Analysis", *School of IT, SEBE, Deakin University*, Burwood, Australia, 29 Sept 2022. Access presentation <a href="http://jacobcybulski.com/seminars/slides/2022_Deakin_SIT_QTSA_V2_0.pdf" target="_blank">PDF</a>.
 
 This repository consists of examples used in the workshop on Quantum Time Series Analysis (QTSA).
 - [Workshop aims and objectives](#aims-and-objectives)
