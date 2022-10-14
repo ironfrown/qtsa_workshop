@@ -5,6 +5,14 @@
 
 Jacob Cybulski is an independent researcher in quantum computing, quantum machine learning, classical machine learning and data visualisation. He also holds the position of Honorary Associate Professor in Quantum Computing, in the School of IT at Deakin University, Melbourne, Australia.
 
+***I am a researcher***, and so if you wanted to use this work for your own research, publish your derivative work, or use it for commercial purposes, please acknowledge the author's work and cite this material as follows:
+- Jacob Cybulski. “Workshop on Quantum Time Series Analysis.” *Ironfrown GitHub repository*, Melbourne, Australia, 2022.<br/> https://github.com/ironfrown/qtsa_workshop.
+
+The workshop material was presented in the following events:
+- Jacob Cybulski, "Key Concepts in Quantum Time Series Analysis", *School of IT, SEBE, Deakin University*, Burwood, Australia, 29 Sept 2022.
+- Jacob Cybulski, keynote "Time Series Analysis Using Quantum Machine Learning", *Workshop on Quantum Machine Learning*, organised in collaboration with QWorld, QPoland, QIndia and Quantum AI Foundation. In association with IEEE Conference Trends in Quantum Computing and Emerging Business Technologies - TQCEBT 2022, 13 October 2022.
+
+
 This repository consists of examples used in the workshop on Quantum Time Series Analysis (QTSA).
 - [Workshop aims and objectives](#aims-and-objectives)
 - [Prerequsite knowledge](#prerequsite-knowledge)
