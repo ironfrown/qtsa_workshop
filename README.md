@@ -51,10 +51,10 @@ The following files are publicly available:
 - [qtsa_04_qnn_v1.2_demo.ipynb](./qtsa_04_qnn_v1.2_demo.ipynb) - Demo of QTSA with sliding window and a standard QNN
 - [qtsa_05_sliding_wind_problem_v9.0.ipynb](./qtsa_05_sliding_wind_problem_v9.0.ipynb) - Problem notebook for QTSA with serial custom QNN
 
-The following files are not available, but given to the workshop participants (after the workshop):
+These are sample solutions to the workshop problems (check themn after the workshop):
 
-- [qtsa_03_parallel_model_answer_v8.9.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with parallel Fourier transforms
-- [qtsa_05_sliding_wind_answer_v9.0.ipynb](other/qtsa_not_available.ipynb) - Sample solution for QTSA with serial custom QNN
+- [qtsa_03_parallel_model_answer_v8.9.ipynb](./qtsa_03_parallel_model_answer_v8.9.ipynb) - Sample solution for QTSA with parallel Fourier transforms
+- [qtsa_05_sliding_wind_answer_v9.0.ipynb](./qtsa_05_sliding_wind_answer_v9.0.ipynb) - Sample solution for QTSA with serial custom QNN
 
 ## Workshop tasks
 Typically the following tasks are undertaken by the workshop participants:
