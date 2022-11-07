@@ -34,17 +34,17 @@ class Regr_callback:
     
     # Initialises the callback
     def __init__(self, log_interval=50):
-        self.objfun_vals = []
+        self.objfun_vals = list()
         self.log_interval = log_interval
 
     # Initialise callback lists
     # - For some reason [] defaults not always work (bug?)
-    def reset(self, obfun=[]):
-        self.objfun_vals = obfun
+    def reset(self):
+        self.objfun_vals = list()
 
     # Find the first minimum objective fun value
     def min_obj(self):
-        if self.objfun_vals == []:
+        if not self.objfun_vals:
             return (-1, 0)
         else:
             minval = min(self.objfun_vals)
